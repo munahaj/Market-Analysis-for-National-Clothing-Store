@@ -13,8 +13,8 @@ We also referred to other data sources such as Business Data, Customer Data and 
 
 In order to draw definitive conclusions from our analysis, we decided to focus on answering the following questions and use suitable visualizations:
 
-What is the correlation (R2 value) between sales and income?   		
-What is the correlation (R2 value) between customer ratings and product return rate?
-What are the linear regression formulas to predict customer sales and customer incomes?
-Which customer do you predict has the highest income?
-Which product will be advertised the most?
+* What is the correlation (R2 value) between sales and income?
+* What is the correlation (R2 value) between customer ratings and product return rate?
+* What are the linear regression formulas to predict customer sales and customer incomes?
+* Which customer do you predict has the highest income?
+* Which product will be advertised the most?
