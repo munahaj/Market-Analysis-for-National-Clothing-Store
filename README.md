@@ -34,7 +34,7 @@ Below screenshots are of the final submitted report:
 ![SC 2](https://github.com/user-attachments/assets/ce693e96-eb6c-4aab-bc60-78a542a001d6)
 
 # Project/Report:
-Several data cleaning steps were taken during the initial process such as removing duplicates, both merging & splitting columns, promoting headers, changing types and others. Upon completing the cleaning process, the tables' keys have identified and the relationships between the tables were linked with the customers.
+Several data cleaning steps were taken during the initial process such as removing duplicates, both merging & splitting columns, promoting headers, changing types and others. Upon completing the cleaning process, the tables' keys have identified and the relationships between the tables were linked as deemed practical.
 
 
 
