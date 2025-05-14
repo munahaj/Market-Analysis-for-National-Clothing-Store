@@ -21,6 +21,11 @@ In order to draw definitive conclusions from our analysis, we decided to focus o
 * Which customer do you predict has the highest income?
 * Which product will be advertised the most?
 
+**Getting Started**
+
+1. We started with importing data from the company which included customer & purchase lists. We also included the previously mentioned data sources (US Census Bureau,Business Data, Customer Data, weather)
+2. 
+
 
 
 
